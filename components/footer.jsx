@@ -91,7 +91,7 @@ export default function Footer() {
         {/* Copyright */}
         <div className="mt-8 pt-8 border-t border-border text-center">
           <p className="text-muted-foreground">
-            © 2024 Aradana Caterers. All rights reserved.
+            © 2025 Aradana Caterers. All rights reserved.
           </p>
         </div>
       </div>
